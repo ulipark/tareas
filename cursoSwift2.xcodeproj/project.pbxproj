@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		DD3FAF1B1BD82870001C0957 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../../miniReto.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DD3FAF141BD82853001C0957 = {
+			isa = PBXGroup;
+			children = (
+				DD3FAF1B1BD82870001C0957 /* miniReto.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DD3FAF151BD82853001C0957 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = DD3FAF181BD82853001C0957 /* Build configuration list for PBXProject "cursoSwift2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DD3FAF141BD82853001C0957;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DD3FAF191BD82853001C0957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DD3FAF1A1BD82853001C0957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD3FAF181BD82853001C0957 /* Build configuration list for PBXProject "cursoSwift2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3FAF191BD82853001C0957 /* Debug */,
+				DD3FAF1A1BD82853001C0957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD3FAF151BD82853001C0957 /* Project object */;
+}
