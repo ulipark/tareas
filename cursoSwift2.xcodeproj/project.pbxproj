@@ -7,15 +7,23 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DD3FAF1B1BD82870001C0957 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../../miniReto.playground; sourceTree = "<group>"; };
+		DD4E8F621BD82C4100CE80D4 /* tarea.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tarea.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		DD3FAF141BD82853001C0957 = {
 			isa = PBXGroup;
 			children = (
-				DD3FAF1B1BD82870001C0957 /* miniReto.playground */,
+				DD4E8F611BD82C3000CE80D4 /* tareas */,
 			);
+			sourceTree = "<group>";
+		};
+		DD4E8F611BD82C3000CE80D4 /* tareas */ = {
+			isa = PBXGroup;
+			children = (
+				DD4E8F621BD82C4100CE80D4 /* tarea.playground */,
+			);
+			name = tareas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
